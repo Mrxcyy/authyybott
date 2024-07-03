@@ -1,0 +1,19 @@
+{
+    "client_secret": "v2UupNiSuJRUs1d8peyjW161UGZOroBh",
+    "client_id": "1258093591788650590",
+    "redirect_uri": "https://d6a74d77-db97-4a0d-85e1-c0a126fe0a45-00-2x93zjpb9jlap.riker.replit.dev/",
+    "bot_token": "MTI1ODA5MzU5MTc4ODY1MDU5MA.Gq4RCl.ifqJBEkCXucIJZxyNAijZ_iMbDx08f--C5qw4A",
+    "bot_invite": "https://discord.com/api/oauth2/authorize?client_id=<CLIENT-ID-HERE>&permissions=116737&scope=bot",
+    "authorize_url": "https://discord.com/oauth2/authorize?client_id=1258093591788650590&response_type=code&redirect_uri=https%3A%2F%2Fd6a74d77-db97-4a0d-85e1-c0a126fe0a45-00-2x93zjpb9jlap.riker.replit.dev%2F&scope=identify+guilds.join",
+    "authorize_vanity": "ecstacy",
+    "owner_ids": [
+        1141695295533621278
+    ],
+    "verification_system": true,
+    "verify_role_id": 1258005278729703484,
+    "verify_guild_id": 1253735446547271690,
+    "wl_guilds": [
+        "1253735446547271690"
+    ],
+    "webhook": "https://discord.com/api/webhooks/1258095249033531453/xIzvy6OTkQmeYdALGwRM4DNbOxM8gynobzuN4QworXeeiCr0cdaF6x1f36j0n5QlDHUN"
+}
